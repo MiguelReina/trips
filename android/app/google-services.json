@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835820509753",
+    "project_id": "practica-bdd",
+    "storage_bucket": "practica-bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835820509753:android:e836b49a2edeab25298be8",
+        "android_client_info": {
+          "package_name": "trips.com.trips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835820509753-bmi7hdbl7gmak92aqct4ti8t8qe8jqod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnpgmM3oNW4892XCQ84yDyl3YCDxM1_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835820509753-bmi7hdbl7gmak92aqct4ti8t8qe8jqod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
